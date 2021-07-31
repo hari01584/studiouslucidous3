@@ -1,37 +1,71 @@
 ## StudyMap
 
-You can use the [editor on GitHub](https://github.com/hari01584/studymap/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Syllabi archives of 3rd sem content. No Pun Intended.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Reflect
+Please, I never made this thing  to study, user discretion is advised. Site is hosted at [here](https://hari01584.github.io/studymap/), please [use this link only](https://hari01584.github.io/studymap/) when seeing this git page.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ROADMAP
+<details><summary> root </summary><blockquote>
 
-```markdown
-Syntax highlighted code block
+<details><summary> bin </summary><blockquote>
 
-# Header 1
-## Header 2
-### Header 3
+<details><summary> nest1 </summary><blockquote>
 
-- Bulleted
-- List
+~~~
+a
+b
+c
+~~~
+</blockquote></details>
+<details><summary> nest2 </summary><blockquote>
 
-1. Numbered
-2. List
+a
+b
+c
+</blockquote></details>
 
-**Bold** and _Italic_ and `Code` text
+~~~
+file1
+file2
+file3
+~~~
+</blockquote></details>
 
-[Link](url) and ![Image](src)
-```
+<details><summary> boot </summary><blockquote>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+x
+y
+z
+</blockquote></details>
 
-### Jekyll Themes
+<details><summary> dev </summary><blockquote>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hari01584/studymap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+p
+q
+r
+</blockquote></details>
 
-### Support or Contact
+<details><summary> etc </summary><blockquote>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+e
+t
+c
+</blockquote></details>
+
+<details><summary> home </summary><blockquote>
+
+me
+you
+everyone
+</blockquote></details>
+
+<details><summary> lib </summary><blockquote>
+
+lib
+er
+ate
+</blockquote></details>
+
+</blockquote></details>
