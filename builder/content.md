@@ -98,7 +98,7 @@
 </blockquote></details>
  
 </blockquote></details>
-<details><summary> UCS406: DATA STRUCTURES AND ALGORITHMS </summary><blockquote>
+<details><summary> UCS301: DATA STRUCTURES AND ALGORITHMS </summary><blockquote>
  <details><summary> Course Objectives </summary><blockquote>
  To become familiar with different types of data structures and their applications and learn different types of algorithmic techniques and strategies. 
 </blockquote></details>
@@ -144,9 +144,107 @@
 </blockquote></details>
  
 </blockquote></details>
-<details><summary> UCSXXX (XXX) </summary><blockquote>
-  
+<details><summary> UMA011 NUMERICAL ANALYSIS </summary><blockquote>
+ <details><summary> Floating-Point Numbers </summary><blockquote>
+ Floating-point representation, rounding, chopping, error analysis,  conditioning and stability. 
 </blockquote></details>
-<details><summary> UCSXXX (XXX) </summary><blockquote>
-  
+
+<details><summary> Non-Linear Equations </summary><blockquote>
+ Bisection, secant, fixed-point iteration, Newton method for simple and  multiple roots, their convergence analysis and order of convergence. 
+</blockquote></details>
+
+<details><summary> Linear Systems and Eigen-Values </summary><blockquote>
+ Gauss elimination method using pivoting strategies, LU  decomposition, Gauss-Seidel and successive-over-relaxation (SOR) iteration methods and their  convergence, ill and well conditioned systems, Rayleigh's power method for Eigen-values and  Eigen-vectors.  
+</blockquote></details>
+
+<details><summary> Interpolation and Approximations </summary><blockquote>
+ Finite differences, Newton’s forward and backward  interpolation, Lagrange and Newton's divided difference interpolation formulas with error  analysis, least square approximations. 
+</blockquote></details>
+
+<details><summary> Numerical Integration </summary><blockquote>
+ Newton-Cotes quadrature formulae (Trapezoidal and Simpson's rules)  and their error analysis, Gauss-Legendre quadrature formulae. 
+</blockquote></details>
+
+<details><summary> Differential Equations </summary><blockquote>
+ Solution of initial value problems using Picard, Taylor series, Euler's and  Runge-Kutta methods (up to fourth-order), system of first-order differential equations. 
+</blockquote></details>
+
+<details><summary> Laboratory Work </summary><blockquote>
+ Lab experiments will be set in consonance with materials covered in the  theory. Implementation of numerical techniques using MATLAB. 
+</blockquote></details>
+
+<details><summary> Course learning outcomes (CLOs) </summary><blockquote>
+ After the completion of the course, the student will be able to: <br>1. Understand the errors, source of error and its effect on any numerical computations and also analysis the efficiency of any numerical algorithms. <br>2. Learn how to obtain numerical solution of nonlinear equations using bisection, secant, newton, and fixed-point iteration methods. <br>3. Solve system of linear equations numerically using direct and iterative methods. <br>4. Understand how to approximate the functions using interpolating polynomials. <br>5. Learn how to solve definite integrals and initial value problems numerically. 
+</blockquote></details>
+
+<details><summary> Text Books </summary><blockquote>
+ <br>1. Gerald F. C. and Wheatley O. P., Applied Numerical Analysis, Pearson, (2003) 7thEdition, <br>2. Jain K. M., Iyengar K. R. S. and Jain K. R., Numerical Methods for Scientific and Engineering Computation, New Age International Publishers (2012), 6thedition. <br>3. Steven C. Chappra, Numerical Methods for Engineers, McGraw-Hill Higher Education; 7 thedition (1 March 2014) <br>4. Mathew H. J., Numerical Methods for Mathematics, Science and Engineering, Prentice Hall, (1992) 2ndedition, <br>5. Burden L. R. and Faires D. J. Numerical Analysis, Brooks Cole (2011), 9thedition. <br>6. Atkinson K. and Han H., Elementary Numerical Analysis, John Willey & Sons (2004), 3 rdEdition 
+</blockquote></details>
+ 
+</blockquote></details>
+<details><summary> UCS311 (PRACTICAL COMPUTING) </summary><blockquote>
+ <details><summary> Could not find </summary><blockquote>
+ not found anywhere 
+</blockquote></details>
+ 
+</blockquote></details>
+<details><summary> UES012 (ENGINEERING MATERIALS) </summary><blockquote>
+ <details><summary> Course Objectives </summary><blockquote>
+ The objective of the course is to provide basic understanding of engineering  materials, their structure and the influence of structure on mechanical, chemical, electrical and  magnetic properties. 
+</blockquote></details>
+
+<details><summary> Structure of solids </summary><blockquote>
+ Classification of engineering materials, Structure-property relationship in  engineering materials, Crystalline and non-crystalline materials, Miller Indices, Crystal planes and  directions, Determination of crystal structure using X-rays, Inorganic solids, Silicate structures and  their applications. Defects; Point, line and surface defects 
+</blockquote></details>
+
+<details><summary> Mechanical properties of materials </summary><blockquote>
+ Elastic, Inelastic and Viscoelastic behaviour, Engineering  stress and engineering strain relationship, True stress - true strain relationship, review of  mechanical properties, Plastic deformation by twinning and slip, Movement of dislocations,  Critical shear stress, Strengthening mechanism and Creep. 
+</blockquote></details>
+
+<details><summary> Equilibrium diagram </summary><blockquote>
+ Solids solutions and alloys, Gibbs phase rule, Unary and binary  eutecticphase diagram, Examples and applications of phase diagrams like Iron - Iron carbide phase  diagram. 
+</blockquote></details>
+
+<details><summary> Electrical and magnetic materials </summary><blockquote>
+ Conducting and resistor materials, and their engineering  application; Semiconducting materials, their properties and applications; Magnetic materials, Soft  and hard magnetic materials and applications; Superconductors; Dielectric materials, their  properties and applications. Smart materials: Sensors and actuators, piezoelectric, magnetostrictive and electrostrictive materials. 
+</blockquote></details>
+
+<details><summary> Corrosion process </summary><blockquote>
+ Corrosion, Cause of corrosion, Types of corrosion, Protection against  corrosion. 
+</blockquote></details>
+
+<details><summary> Materials selection </summary><blockquote>
+ Overview of properties of engineering materials, Selection of materials for  different engineering applications. 
+</blockquote></details>
+
+<details><summary> Laboratory Work and Micro-Project </summary><blockquote>
+ Note: The micro-project will be assigned to the group(s) of students at the beginning of the semester. Based on the topic of the project the student will perform any of the six experiments from the following list: <br>1. To determine Curie temperature of a ferrite sample and to study temperature dependence of permeability in the vicinity of Curie temperature. <br>2. To study cooling curve of a binary alloy. <br>3. Determination of the elastic modulus and ultimate strength of a given fiber strand. <br>3. To determine the dielectric constant of a PCB laminate. <br>5. Detection of flaws using ultrasonic flaw detector (UFD). <br>6. To determine fiber and void fraction of a glass fiber reinforced composite specimen. <br>7. To investigate creep of a given wire at room temperature. <br>8. To estimate the Hall coefficient, carrier concentration and mobility in a semiconductor crystal. <br>9. To estimate the band-gap energy of a semiconductor using four probe technique. <br>10. To measure grain size and study the effect of grain size on hardness of the given metallic specimens. 
+</blockquote></details>
+
+<details><summary> Course learning outcomes (CLOs) </summary><blockquote>
+ After the completion of the course, the student will be able to: <br>1. Classify engineering materials based on its structure. <br>2. Draw crystallographic planes and directions. <br>3. Distinguish between elastic and plastic behavior of materials. <br>4. Distinguish between isomorphous and eutectic phase diagram. <br>5. Classify materials based on their electrical and magnetic properties. <br>6. Propose a solution to prevent corrosion. 
+</blockquote></details>
+
+<details><summary> Text Books </summary><blockquote>
+ <br>1. Callister D. W and Rethwisch G. D., Materials Science and Engineering; John Wiley & Sons, Singapore (2013) 9th Edition. <br>2. Smith F. W., Principles of Materials Science and Engineering: An Introduction; Tata McGraw Hill, (2008) 3rd Edition. <br>3. Raghavan V., Introduction to Materials Science and Engineering, Prentice Hall (2015) 6th Edition. 
+</blockquote></details>
+
+<details><summary> Reference Books </summary><blockquote>
+ <br>1. Kasap S., Principles of Electronic Engineering Materials Tata Mc-Graw Hill, 2007. <br>2. Vlack V. H. L., Elements of Material Science and Engineering, Pearson, India, (1989) 6th Edition. <br>3. Budinski G. K. and Budinski K. M., Engineering Materials – Properties and selection, Prentince Hall India (2002) 7 th Edition. 
+</blockquote></details>
+ 
+</blockquote></details>
+<details><summary> UCS016 (ENGINEERING DESIGN PROJECT-I) </summary><blockquote>
+ <details><summary> Course Objectives </summary><blockquote>
+ To develop design skills according to a Conceive-Design-Implement Operate (CDIO) compliant methodology. To apply engineering sciences through learning-by doing project work. To provide a framework to encourage creativity and innovation. To <br>develop team work and communication skills through group-based activity. To foster self directed learning and critical evaluation.<br>To provide a basis for the technical aspects of the project a small number of lectures are <br>incorporated into the module. As the students would have received little in the way of formal <br>engineering instruction at this early stage in the degree course, the level of the lectures is to be <br>introductory with an emphasis on the physical aspects of the subject matter as applied to the <br>‘Mangonel’ project. The lecture series include subject areas such as Materials, Structures, <br>Dynamics and Digital Electronics delivered by experts in the field.<br>This module is delivered using a combination of introductory lectures and participation by the <br>students in 15 “activities”. The activities are executed to support the syllabus of the course and <br>might take place in specialised laboratories or on the open ground used for firing the Mangonel. <br>Students work in groups throughout the semester to encourage teamwork, cooperation and to <br>avail of the different skills of its members. In the end the students work in sub-groups to do the <br>Mangonel throwing arm redesign project. They assemble and operate a Mangonel, based on <br>the lectures and tutorials assignments of mechanical engineering they experiment with the <br>working, critically analyse the effect of design changes and implement the final project in a <br>competition. Presentation of the group assembly, redesign and individual reflection of the <br>project is assessed in the end. 
+</blockquote></details>
+
+<details><summary> Text Books </summary><blockquote>
+ 1. Michael McRoberts, Beginning Arduino, Technology in action publications. <br>2. Alan G. Smith, Introduction to Arduino: A piece of cake, CreateSpace Independent Publishing Platform (2011) 
+</blockquote></details>
+
+<details><summary> Reference Book </summary><blockquote>
+ 1. John Boxall, Arduino Workshop - A Hands-On Introduction with 65 Projects, No Starch Press (2013) 
+</blockquote></details>
+ 
 </blockquote></details>
