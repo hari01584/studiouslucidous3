@@ -7,12 +7,16 @@ Please, I never made this thing  to study, user discretion is advised. Site is h
 
 
 ### ROADMAP
-<details><summary> root </summary><blockquote>
-<details><summary> home </summary><blockquote>
-me
+<details>
+<summary> root </summary>
+<blockquote>
+<details><summary> home </summary>
+<blockquote>
+me <br>
 you
 everyone
-</blockquote></details>
+</blockquote>
+</details>
 
 <details><summary> lib </summary><blockquote>
 lib
