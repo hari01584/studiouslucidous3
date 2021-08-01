@@ -98,8 +98,51 @@
 </blockquote></details>
  
 </blockquote></details>
-<details><summary> UCSXXX (XXX) </summary><blockquote>
-  
+<details><summary> UCS406: DATA STRUCTURES AND ALGORITHMS </summary><blockquote>
+ <details><summary> Course Objectives </summary><blockquote>
+ To become familiar with different types of data structures and their applications and learn different types of algorithmic techniques and strategies. 
+</blockquote></details>
+
+<details><summary> Linear Data Structures </summary><blockquote>
+ Arrays, Records, Strings and string processing, References and aliasing, Linked lists, Strategies for choosing the appropriate data structure, Abstract data types and their implementation: Stacks, Queues, Priority queues, Sets, Maps. 
+</blockquote></details>
+
+<details><summary> Basic Analysis </summary><blockquote>
+ Differences among best, expected, and worst case behaviours of an algorithm, Asymptotic analysis of upper and expected complexity bounds, Big O notation: formal definition and use, Little o, big omega and big theta notation , Complexity classes, such as constant, logarithmic, linear, quadratic, and exponential, Time and space trade-offs in algorithms, Recurrence relations , Analysis of iterative and recursive algorithms. 
+</blockquote></details>
+
+<details><summary> Searching and Sorting </summary><blockquote>
+ Linear Search, Binary Search, Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Quick Sort, Heap Sort, Merge Sort, Counting Sort, Radix Sort. 
+</blockquote></details>
+
+<details><summary> Algorithmic Strategies with examples and problem solving </summary><blockquote>
+ Brute-force algorithms with examples, Greedy algorithms with examples, Divide-and-conquer algorithms with examples, Recursive backtracking, Dynamic Programming with examples, Branch-and-bound with examples, Heuristics, Reduction: transform-and-conquer with examples. 
+</blockquote></details>
+
+<details><summary> Non-Linear Data Structures And Sorting Algorithms </summary><blockquote>
+ Hash tables, including strategies for avoiding and resolving collisions, Binary search trees, Common operations on binary search trees such as select min, max, insert, delete, iterate over tree, Graphs and graph algorithms, Representations of graphs, Depth- and breadth-first traversals , Heaps ,Graphs and graph algorithms , Shortest-path algorithms (Dijkstra and Floyd) , Minimum spanning tree (Prim and Kruskal). 
+</blockquote></details>
+
+<details><summary> Problem Clauses </summary><blockquote>
+ P, NP, NP- Hard and NP-complete, deterministic and non-deterministic polynomial time algorithm approximation and algorithm for some NP complete problems. Introduction to parallel algorithms, Genetic algorithms, intelligent algorithms. 
+</blockquote></details>
+
+<details><summary> Laboratory work </summary><blockquote>
+ Implementation of Arrays, Recursion, Stacks, Queues, Lists, Binary trees, Sorting techniques, Searching techniques. Implementation of all the algorithmic techniques. 
+</blockquote></details>
+
+<details><summary> Course learning outcomes (CLOs) </summary><blockquote>
+ On completion of this course, the students will be able to<br>1. implement the basic data structures and solve problems using fundamental algorithms.<br>2. implement various search and sorting techniques.<br>3. analyse the complexity of algorithms, to provide justification for that selection, and to implement the algorithm in a particular context.<br>4. analyze, evaluate and choose appropriate data structure and algorithmic technique to solve real-world problems. 
+</blockquote></details>
+
+<details><summary> Text Books </summary><blockquote>
+ <br>1. Corman, Leiserson&Rivest, Introduction to Algorithms, MIT Press (2009).<br>2. Narasimha Karumanchi, Data Structures and Algorithms Made Easy (2014). 
+</blockquote></details>
+
+<details><summary> Reference Books </summary><blockquote>
+ <br>1. Sahni, Sartaj, Data Structures, Algorithms and Applications in C++, Universities Press (2005) 
+</blockquote></details>
+ 
 </blockquote></details>
 <details><summary> UCSXXX (XXX) </summary><blockquote>
   
