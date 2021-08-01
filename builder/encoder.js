@@ -15,7 +15,7 @@ data.forEach(function (item, index) {
 
   var childs = [];
   for (var key in content) {
-    childs.push(datum(key, [content[key].replace('\n', '<br>')]));
+    childs.push(datum(key, [content[key].replace(/\n/g, '<br>')]));
   }
   var parent = datum(subject, childs);
   readme+=parent;
