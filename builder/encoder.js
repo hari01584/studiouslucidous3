@@ -22,5 +22,5 @@ data.forEach(function (item, index) {
 });
 
 fs.writeFileSync('content.md', readme);
-console.log('Built:');
-console.log(readme);
+console.log('Built: content.md');
+console.log('Content MD File successfully created, You should now copy paste the content into required place of README.md (in root dir)!!')

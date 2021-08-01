@@ -248,3 +248,21 @@
 </blockquote></details>
  
 </blockquote></details>
+<details><summary> Author's Note </summary><blockquote>
+ <details><summary> Kudos to you </summary><blockquote>
+ Hey, thanks for coming to this one! You made it to the last section and is now greeted with some of my wise words, coughh.. nothing :D 
+</blockquote></details>
+
+<details><summary> How it works? </summary><blockquote>
+ Basically the node script builder/encoder.js builds a readme supported file using unit.json as a base! and converts it into collaspe-able listview! I just copy this to readme.md in the root directory and voila! You got it :D 
+</blockquote></details>
+
+<details><summary> Why go through all that troubles? </summary><blockquote>
+ Dunno, tbh, I myself am thinking the same right now :(( 
+</blockquote></details>
+
+<details><summary> Add more subjects </summary><blockquote>
+ See  
+</blockquote></details>
+ 
+</blockquote></details>

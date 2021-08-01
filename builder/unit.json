@@ -92,5 +92,14 @@
 			"Text Books": "1. Michael McRoberts, Beginning Arduino, Technology in action publications. \n2. Alan G. Smith, Introduction to Arduino: A piece of cake, CreateSpace Independent Publishing Platform (2011)",
 			"Reference Book": "1. John Boxall, Arduino Workshop - A Hands-On Introduction with 65 Projects, No Starch Press (2013)"
 		}
+	},
+	{
+		"subject": "Author's Note",
+		"content": {
+			"Kudos to you": "Hey, thanks for coming to this one! You made it to the last section and is now greeted with some of my wise words, coughh.. nothing :D",
+			"How it works?": "Basically the node script builder/encoder.js builds a readme supported file using unit.json as a base! and converts it into collaspe-able listview! I just copy this to readme.md in the root directory and voila! You got it :D",
+			"Why go through all that troubles?": "Dunno, tbh, I myself am thinking the same right now :((",
+			"Add more subjects": "See "
+		}
 	}
 ]
