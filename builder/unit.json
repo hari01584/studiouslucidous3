@@ -34,7 +34,7 @@
 		}
 	},
 	{
-		"subject": "UCS301: DATA STRUCTURES AND ALGORITHMS",
+		"subject": "UCS301 (DATA STRUCTURES AND ALGORITHMS)",
 		"content": {
 			"Course Objectives":"To become familiar with different types of data structures and their applications and learn different types of algorithmic techniques and strategies.",
 			"Linear Data Structures":"Arrays, Records, Strings and string processing, References and aliasing, Linked lists, Strategies for choosing the appropriate data structure, Abstract data types and their implementation: Stacks, Queues, Priority queues, Sets, Maps.",
@@ -50,7 +50,7 @@
 		}
 	},
 	{
-		"subject": "UMA011 NUMERICAL ANALYSIS",
+		"subject": "UMA011 (NUMERICAL ANALYSIS)",
 		"content": {
 			"Floating-Point Numbers":"Floating-point representation, rounding, chopping, error analysis,  conditioning and stability.",
 			"Non-Linear Equations":"Bisection, secant, fixed-point iteration, Newton method for simple and  multiple roots, their convergence analysis and order of convergence.",

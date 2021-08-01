@@ -107,7 +107,7 @@ Please, I never made this thing  to study, user discretion is advised. Site is h
 </blockquote></details>
 
 </blockquote></details>
-<details><summary> UCS301: DATA STRUCTURES AND ALGORITHMS </summary><blockquote>
+<details><summary> UCS301 (DATA STRUCTURES AND ALGORITHMS) </summary><blockquote>
  <details><summary> Course Objectives </summary><blockquote>
  To become familiar with different types of data structures and their applications and learn different types of algorithmic techniques and strategies.
 </blockquote></details>
@@ -153,7 +153,7 @@ Please, I never made this thing  to study, user discretion is advised. Site is h
 </blockquote></details>
 
 </blockquote></details>
-<details><summary> UMA011 NUMERICAL ANALYSIS </summary><blockquote>
+<details><summary> UMA011 (NUMERICAL ANALYSIS) </summary><blockquote>
  <details><summary> Floating-Point Numbers </summary><blockquote>
  Floating-point representation, rounding, chopping, error analysis,  conditioning and stability.
 </blockquote></details>
