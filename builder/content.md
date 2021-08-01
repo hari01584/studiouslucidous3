@@ -262,7 +262,7 @@
 </blockquote></details>
 
 <details><summary> Add more subjects </summary><blockquote>
- See  
+ See <a href='https://hari01584.github.io/studymap/builder/howtocontribute'>this guide</a> to know about contributing process. 
 </blockquote></details>
  
 </blockquote></details>

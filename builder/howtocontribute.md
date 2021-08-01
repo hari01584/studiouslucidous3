@@ -2,7 +2,7 @@
 
 There are some helpers and tools i made to easify your process of adding more projects!!
 
-First of all look into **unit.json** file, that file has all the data required to build the subjects and the collapse-able listview! Following the usual syntax of the json file, you can add more subjects and their contents!
+First of all fork **[this parent repository](https://github.com/hari01584/studymap)** and look into **unit.json** file, that file has all the data required to build the subjects and the collapse-able listview! Following the usual syntax of the json file, you can add more subjects and their contents!
 
 Not only that but you can also take a look into *helper/line.py*, I used this script to quickly make copy-paste able js syntax dictionary codes, So i can save little bit of time adding semicolons and quotes again and again :)..!
 

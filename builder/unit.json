@@ -99,7 +99,7 @@
 			"Kudos to you": "Hey, thanks for coming to this one! You made it to the last section and is now greeted with some of my wise words, coughh.. nothing :D",
 			"How it works?": "Basically the node script builder/encoder.js builds a readme supported file using unit.json as a base! and converts it into collaspe-able listview! I just copy this to readme.md in the root directory and voila! You got it :D",
 			"Why go through all that troubles?": "Dunno, tbh, I myself am thinking the same right now :((",
-			"Add more subjects": "See "
+			"Add more subjects": "See <a href='https://hari01584.github.io/studymap/builder/howtocontribute'>this guide</a> to know about contributing process."
 		}
 	}
 ]
