@@ -7,20 +7,9 @@ Please, I never made this thing  to study, user discretion is advised. Site is h
 
 
 ### ROADMAP
-<details>
-<summary> root </summary>
-<blockquote>
-<details><summary> home </summary>
-<blockquote>
-me <br>
-you
-everyone
-</blockquote>
-</details>
-
-<details><summary> lib </summary><blockquote>
-lib
-er
-ate
+<details><summary> Imma parent </summary><blockquote>
+ <details><summary> Abcd </summary><blockquote>
+ efgh
 </blockquote></details>
+
 </blockquote></details>
