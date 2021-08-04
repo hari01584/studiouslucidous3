@@ -183,8 +183,40 @@
  
 </blockquote></details>
 <details><summary> UCS311 (PRACTICAL COMPUTING) </summary><blockquote>
- <details><summary> Could not find </summary><blockquote>
- not found anywhere 
+ <details><summary> Course Objectives </summary><blockquote>
+ The objective of this course is to provide exposure to the students on the basic operating system handing, code debugging and secure coding practices. 
+</blockquote></details>
+
+<details><summary> Operating System Basics </summary><blockquote>
+ Files, Directories, File utilities; Basic filters; Creating your own shell, Shell programming; Inter-process communication using pipes, System programming for file handling, file locking and data management, Process control,, Signal Handling. 
+</blockquote></details>
+
+<details><summary> Network Administration </summary><blockquote>
+ Understanding NFS and NIS. 
+</blockquote></details>
+
+<details><summary> Code Debugging </summary><blockquote>
+ Introduction to GDB, Code execution procedure in the memory, viewing stack and other registers. 
+</blockquote></details>
+
+<details><summary> Secure Coding Practices </summary><blockquote>
+ Understanding stack and heap overflow. 
+</blockquote></details>
+
+<details><summary> Laboratory Work </summary><blockquote>
+ To implement the various concepts. 
+</blockquote></details>
+
+<details><summary> Course Learning Outcomes (CLOs) / Course Objectives (COs) </summary><blockquote>
+ After the completion of this course the student will be able to: <br>1. Understand Linux file system, process control and communication. <br>2. Debug code and identify reasons of abnormal code behavior <br>3. Implement Linux shell using C and obtain skills to set up and use NFS and NIS <br>4. Develop secure coding practices by acquiring knowledge about security vulnerabilities and their exploitation 
+</blockquote></details>
+
+<details><summary> Text Books </summary><blockquote>
+ 1. Terry Dawson, Olaf Kirch, Linux Network Administrator's Guide, O Reilly, 3rd edition. <br>2. James C. Foster and Jason Deckard, Buffer Overflow Attacks: Detect, Exploit, Prevent, Syngress. <br>3. Sumitava Das, Unix Concepts and Application. 
+</blockquote></details>
+
+<details><summary> Reference Books </summary><blockquote>
+ 1. Richard M. Stallman, Roland Pesch , Stan Shebs , Debugging with GDB: The GNU Source-Level Debugger, 9th Edition <br>2. Andrew Mallett, Mastering Linux Shell Scripting <br>3. Richard Stones Neil Matthew, Beginning Linux Programming, 4th Edition 
 </blockquote></details>
  
 </blockquote></details>

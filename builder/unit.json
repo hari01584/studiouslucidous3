@@ -66,7 +66,15 @@
 	{
 		"subject": "UCS311 (PRACTICAL COMPUTING)",
 		"content": {
-			"Could not find": "not found anywhere"
+			"Course Objectives":"The objective of this course is to provide exposure to the students on the basic operating system handing, code debugging and secure coding practices.",
+			"Operating System Basics":"Files, Directories, File utilities; Basic filters; Creating your own shell, Shell programming; Inter-process communication using pipes, System programming for file handling, file locking and data management, Process control,, Signal Handling.",
+			"Network Administration":"Understanding NFS and NIS.",
+			"Code Debugging":"Introduction to GDB, Code execution procedure in the memory, viewing stack and other registers.",
+			"Secure Coding Practices":"Understanding stack and heap overflow.",
+			"Laboratory Work":"To implement the various concepts.",
+			"Course Learning Outcomes (CLOs) / Course Objectives (COs)":"After the completion of this course the student will be able to: \n1. Understand Linux file system, process control and communication. \n2. Debug code and identify reasons of abnormal code behavior \n3. Implement Linux shell using C and obtain skills to set up and use NFS and NIS \n4. Develop secure coding practices by acquiring knowledge about security vulnerabilities and their exploitation",
+			"Text Books": "1. Terry Dawson, Olaf Kirch, Linux Network Administrator's Guide, O Reilly, 3rd edition. \n2. James C. Foster and Jason Deckard, Buffer Overflow Attacks: Detect, Exploit, Prevent, Syngress. \n3. Sumitava Das, Unix Concepts and Application.",
+			"Reference Books": "1. Richard M. Stallman, Roland Pesch , Stan Shebs , Debugging with GDB: The GNU Source-Level Debugger, 9th Edition \n2. Andrew Mallett, Mastering Linux Shell Scripting \n3. Richard Stones Neil Matthew, Beginning Linux Programming, 4th Edition"
 		}
 	},
 	{
