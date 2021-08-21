@@ -2,8 +2,6 @@
 	{
 		"day": "Monday",
 		"classes": {
-			"8:00 Operating System (LAB)": "<a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a>",
-	      		"8:50 Operating System (LAB)": "<a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a>",
 	      		"9:40 Operating System (Lecture)": "<a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a>",
 	      		"10:30 Engineering Materials (Lecture)": "<a href='https://tiet.zoom.us/my/spms1'>https://tiet.zoom.us/my/spms1</a>",
 	      		"11:20 Mathematics (Lecture)": "<a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a>",
@@ -14,7 +12,9 @@
 	{
 		"day": "Tuesday",
 		"classes": {
-			"9:40 Mathematics (TUT.)": "<a href='https://tiet.zoom.us/my/CSED8'>https://tiet.zoom.us/my/CSED8</a>"
+			"9:40 Mathematics (TUT.)": "<a href='https://tiet.zoom.us/my/CSED8'>https://tiet.zoom.us/my/CSED8</a>",
+			"1:00 Operating System (LAB)": "<a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a>",
+	      		"1:50 Operating System (LAB)": "<a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a>"
 		}
 	},
 	{
