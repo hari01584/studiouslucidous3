@@ -10,5 +10,49 @@
 	      		"12:10 Numerical Analysis (Lecture)": "<a href='https://tiet.zoom.us/my/tietsom3'>https://tiet.zoom.us/my/tietsom3</a>",
 	      		"2:40 DS and Algorithms (Lecture)": "<a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a>"
 		}
+	},
+	{
+		"day": "Tuesday",
+		"classes": {
+			"9:40 Mathematics (TUT.)": "<a href='https://tiet.zoom.us/my/CSED8'>https://tiet.zoom.us/my/CSED8</a>"
+		}
+	},
+	{
+		"day": "Wednesday",
+		"classes": {
+			"8:00 Engineering Materials (LAB)": "<a href='https://tiet.zoom.us/my/spms3'>https://tiet.zoom.us/my/spms3</a>",
+			"8:50 Engineering Materials (LAB)": "<a href='https://tiet.zoom.us/my/spms3'>https://tiet.zoom.us/my/spms3</a>",
+			"1:00 Numerical Analysis (LAB)": "<a href='https://tiet.zoom.us/my/tietsom6'>https://tiet.zoom.us/my/tietsom6</a>",
+			"1:50 Numerical Analysis (LAB)": "<a href='https://tiet.zoom.us/my/tietsom6'>https://tiet.zoom.us/my/tietsom6</a>",
+			"3:30 Practical Computing (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>",
+			"4:20 Data Structure (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>",
+			"5:10 Engineering Design Project (Lecture)": "<a href='https://tiet.zoom.us/my/me003'>https://tiet.zoom.us/my/me003</a>"
+		}
+	},
+	{
+		"day": "Thursday",
+		"classes": {
+			"8:00 Numerical Analysis (Lecture)": "<a href='https://tiet.zoom.us/my/tietsom3'>https://tiet.zoom.us/my/tietsom3</a>",
+			"8:50 Mathematics (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>",
+			"9:40 Engineering Design Project (LAB)": "<a href='https://tiet.zoom.us/my/mee03'>https://tiet.zoom.us/my/mee03</a>",
+			"10:30 Engineering Design Project (LAB)": "<a href='https://tiet.zoom.us/my/mee03'>https://tiet.zoom.us/my/mee03</a>",
+			"11:20 Engineering Material (Lecture)": "<a href='https://tiet.zoom.us/my/spms1'>https://tiet.zoom.us/my/spms1</a>",
+			"12:10 Operating System (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>",
+			"4:20 Engineering Materials (TUT)": "<a href='https://tiet.zoom.us/my/spms2'>https://tiet.zoom.us/my/spms2</a>"
+		}
+	},
+	{
+		"day": "Friday",
+		"classes": {
+			"8:00 DS and Algorithms (LAB)": "<a href='https://tiet.zoom.us/my/CSED5'>https://tiet.zoom.us/my/CSED5</a>",
+			"8:50 DS and Algorithms (LAB)": "<a href='https://tiet.zoom.us/my/CSED5'>https://tiet.zoom.us/my/CSED5</a>",
+			"9:40 Practical Computing (LAB)": "<a href='https://tiet.zoom.us/my/CSED9'>https://tiet.zoom.us/my/CSED9</a>",
+			"10:30 Practical Computing (LAB)": "<a href='https://tiet.zoom.us/my/CSED9'>https://tiet.zoom.us/my/CSED9</a>",
+			"11:20 Engineering Materials (Lecture)": "<a href='https://tiet.zoom.us/my/spms2'>https://tiet.zoom.us/my/spms2</a>",
+			"12:10 Numerical Analysis (Lecture)": "<a href='https://tiet.zoom.us/my/tietsom3'>https://tiet.zoom.us/my/tietsom3</a>",
+			"2:40 Operating System (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>",
+			"3:30 Mathematics (Lecture)": "<a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a>",
+			"4:20 DS and Algorithms (Lecture)": "<a href='https://tiet.zoom.us/my/CSED1'>https://tiet.zoom.us/my/CSED1</a>"
+		}
 	}
 ]
