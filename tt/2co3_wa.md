@@ -4,7 +4,7 @@ Quick copy paste timetable, Useful for setting links in Whatsapp group, Original
 
 ## Simplified TT:
 <details><summary> Monday </summary><blockquote>
- 9:40 Operating System (Lecture): <a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a><br>10:30 Engineering Materials (Lecture): <a href='https://tiet.zoom.us/my/spms1'>https://tiet.zoom.us/my/spms1</a><br>11:20 Mathematics (Lecture): <a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a><br>12:10 Numerical Analysis (Lecture): <a href='https://tiet.zoom.us/my/tietsom3'>https://tiet.zoom.us/my/tietsom3</a><br>2:40 DS and Algorithms (Lecture): <a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a><br> 
+ 9:40 Operating System (Lecture): <a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a><br>10:30 Engineering Materials (Lecture): <a href='https://tiet.zoom.us/my/spms1'>https://tiet.zoom.us/my/spms1</a><br>11:20 Mathematics (Lecture): <a href='https://tiet.zoom.us/my/CSED2'>https://tiet.zoom.us/my/CSED2</a><br>12:10 Numerical Analysis (Lecture): <a href='https://tiet.zoom.us/my/tietsom3'>https://tiet.zoom.us/my/tietsom3</a><br>2:40 DS and Algorithms (Lecture): <a href='https://tiet.zoom.us/my/CSED12'>https://tiet.zoom.us/my/CSED12</a><br> 
 </blockquote></details>
 <details><summary> Tuesday </summary><blockquote>
  9:40 Mathematics (TUT.): <a href='https://tiet.zoom.us/my/CSED8'>https://tiet.zoom.us/my/CSED8</a><br>1:00 Operating System (LAB): <a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a><br>1:50 Operating System (LAB): <a href='https://tiet.zoom.us/my/CSED3'>https://tiet.zoom.us/my/CSED3</a><br> 
