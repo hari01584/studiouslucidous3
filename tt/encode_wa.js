@@ -23,6 +23,6 @@ data.forEach(function (item, index) {
   readme+=parent;
 });
 
-fs.writeFileSync('content.md', readme);
-console.log('Built: content.md');
+fs.writeFileSync('content_wa.md', readme);
+console.log('Built: content_wa.md');
 console.log('Content MD File successfully created, You should now copy paste the content into required place of README.md (in root dir)!!')
