@@ -60,7 +60,7 @@
 </blockquote></details>
 
 <details><summary> 5:10 Engineering Design Project (Lecture) </summary><blockquote>
- <a href='https://tiet.zoom.us/my/mee003'>https://tiet.zoom.us/my/mee003</a> 
+ <a href='https://tiet.zoom.us/my/eced3'>https://tiet.zoom.us/my/eced3</a> 
 </blockquote></details>
  
 </blockquote></details>
